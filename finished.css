@@ -126,7 +126,7 @@ p2{
   grid-template-columns: minmax(100px, 40%) 1fr;
 }
 .sidebar {
-  height: 75vh;
+  height: 65vh;
   background-color: rgba(255, 255, 255, 0.356);
   font-size: 2rem;
   text-align: center;
